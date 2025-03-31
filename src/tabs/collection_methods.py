@@ -6,6 +6,8 @@ def collection_methods_page(tab_name):
     st.markdown(
 
         """
+        Jamie is cool!
+        
         Data is collected across five disease categories. Initial data release contains data collected from four of five categories (pediatric data to be incorporated in subsequent dataset releases.
 
         Participants are recruited across different academic institutions from “high volume expert clinics” based on diagnosis and inclusion/exclusion criteria outlined below **(Table 1)**.
